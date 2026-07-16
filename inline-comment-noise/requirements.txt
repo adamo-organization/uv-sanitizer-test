@@ -1,0 +1,5 @@
+requests==2.0 # internal mirror of git+https://example.com/foo.git
+Flask==1.0 # served from file:///var/www/wheels
+boto3 # comment mentions git+https for context
+pkg==1.0 # note: file:// was used historically
+click==8.1.7 # normal comment, nothing tricky

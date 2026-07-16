@@ -1,0 +1,7 @@
+requests==2.31.0
+file:///C:/Users/dev/Documents/foo-0.1.0.dev0-py3-none-any.whl#sha256=fa0cf877
+genai_utils @ file:///C:/Users/dev/Documents/genai_utils.whl
+file:///opt/airflow/plugins/beertech-2.12.0-cp38-cp38-linux_x86_64.whl
+-r file:///abs/extra.txt
+-e file:///home/dev/local-pkg
+flask==3.0.0

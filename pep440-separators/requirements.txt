@@ -1,0 +1,9 @@
+foo==1.0.0-beta
+bar==1.0.0_rc1
+baz==1.0-1
+qux==1.0_post1
+xyz==1.0-dev1
+plain==1.0.0b1
+withdot==1.0.0.post1
+wildcard==1.0.*
+epoch==1!2.0

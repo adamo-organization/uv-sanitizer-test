@@ -1,0 +1,7 @@
+requests==2.31.0
+1) Create a cronjob using springboot commandline
+ 2. Run the script
+This is a prose line, not a requirement
+./DAG_Triggering_query.py
+src/main.py
+flask==3.0.0

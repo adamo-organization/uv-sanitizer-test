@@ -1,0 +1,6 @@
+requests==2.31.0
+-e pytest
+-e pytest==7.0.0
+--editable somepkg==1.0
+-e git+https://github.com/datastax/python-driver.git@cassandra-test#egg=cassandra-driver
+flask==3.0.0

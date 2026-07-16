@@ -1,0 +1,6 @@
+flask==2.0.1+cgr.1
+    # via -r requirements.txt
+aiohttp==3.9.1+cgr.2
+    # via -r requirements.txt
+pkg==1.0.0+cgr.dev0
+    # via -r requirements.txt

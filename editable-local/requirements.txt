@@ -1,0 +1,6 @@
+requests==2.31.0
+-e .
+-e ./subpkg
+-e /abs/path
+-e ../shared
+flask==3.0.0

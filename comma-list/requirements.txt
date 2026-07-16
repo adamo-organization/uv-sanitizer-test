@@ -1,0 +1,6 @@
+requests==2.31.0
+--no-binary numpy,spacy,blis,thinc,cymem
+--only-binary pkg1,pkg2
+--no-binary :all:
+--no-binary singlepkg
+flask==3.0.0

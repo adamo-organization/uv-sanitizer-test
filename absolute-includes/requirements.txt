@@ -1,0 +1,6 @@
+requests==2.31.0
+-r /usr/local/airflow/requirements/requirements_constraints.txt
+-c /etc/pip/constraints.txt
+--requirement /usr/local/airflow/requirements/r.txt
+--constraint C:\airflow\c.txt
+flask==3.0.0
