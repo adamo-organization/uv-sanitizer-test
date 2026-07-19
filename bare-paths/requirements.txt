@@ -2,6 +2,4 @@ requests==2.31.0
 wheels/
 packages/wheels
 ./local/dir/
-./dist/my_pkg-1.0.0-py3-none-any.whl
-dist/pkg.tar.gz
 flask==3.0.0
