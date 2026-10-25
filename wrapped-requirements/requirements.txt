@@ -1,0 +1,4 @@
+  --index-url=https://pypi.org/simple six=1.16.0
+-e idna=3.6
+urllib3 [socks]>=2.0,<3.0, --extra-index-url https://pypi.org/simple
+requests==2.31.0
