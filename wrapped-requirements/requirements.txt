@@ -2,3 +2,4 @@
 -e idna=3.6
 urllib3 [socks]>=2.0,<3.0, --extra-index-url https://pypi.org/simple
 requests==2.31.0
+# LIM-48306: re-extract after the index-url placeholder fix
