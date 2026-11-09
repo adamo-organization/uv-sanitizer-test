@@ -1,0 +1,5 @@
+requests==2.31.0
+-r ../shared/packages.in
+-c ../shared/constraints.data
+-r ../../../lim44387-outside/extra.txt
+-c ../../../lim44387-outside/constraints.txt
