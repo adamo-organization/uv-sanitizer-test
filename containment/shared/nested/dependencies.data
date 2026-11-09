@@ -1,0 +1,2 @@
+pyyaml==6.0.1
+-r ../../../../lim44387-outside/extra.txt

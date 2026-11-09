@@ -39,3 +39,7 @@ Each subdirectory is a self-contained `requirements.txt` scenario that exercises
 1. Trigger a scan against this repo in a LIM environment that has `#45590` deployed.
 2. For each subdirectory, compare the resulting dependency graph to the "Expected outcome" section of that directory's README.
 3. `healthy/` should show the exact three deps with no sanitizer log noise.
+
+## Repository containment
+
+See [containment/](containment/) for nested includes, valid parent-directory references, and outside-repository project/archive references.

@@ -1,0 +1,2 @@
+requests==2.31.0
+outside_demo @ ../../../lim44387-outside/outside_demo-1.0-py3-none-any.whl
